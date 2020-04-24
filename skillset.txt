@@ -8,3 +8,9 @@ My Skillset are,
 - AWS
 - Linux and Bash Scripting
 - JavaScript
+
+I also want to learn the below skills,
+- HTML/CSS3
+- ReactJS
+- PostgreSQL
+- Flask
