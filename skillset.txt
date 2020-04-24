@@ -1,0 +1,10 @@
+Srinivasan, Tharun Kumar (STK)
+
+My Skillset are,
+- python 3
+- SQL
+- git
+- django
+- AWS
+- Linux and Bash Scripting
+- JavaScript
